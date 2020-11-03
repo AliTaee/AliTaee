@@ -9,9 +9,10 @@ HTML banners with focusing on pure CSS and JavaScript animation and interaction 
 
 #### You can find me at:
 
-- [Codewars profile](https://www.codewars.com/users/AliTaee/)
-- [Linkedin profile](https://www.linkedin.com/in/alitaee/)
-- [Freecodecamp profile](https://www.freecodecamp.org/alitaee)
+- [Linkedin](https://www.linkedin.com/in/alitaee/)
+- [Codewars](https://www.codewars.com/users/AliTaee/)
+- [Freecodecamp](https://www.freecodecamp.org/alitaee)
+- [Stackoverflow](https://stackoverflow.com/users/9218227/ali-taee) 
 
 📫 How to reach me:
 - ali.taee.72@gmail.com
