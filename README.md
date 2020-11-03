@@ -9,20 +9,15 @@ HTML banners with focusing on pure CSS and JavaScript animation and interaction 
 
 #### You can find me at:
 
-##### Codewars
-![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
-
-[Codewars profile](https://www.codewars.com/users/AliTaee/)
-
-##### Linkedin
-[Linkedin profile](https://www.linkedin.com/in/alitaee/)
-
-##### Freecodecamp
-[Freecodecamp profile](https://www.freecodecamp.org/alitaee)
+- [Codewars profile](https://www.codewars.com/users/AliTaee/)
+- [Linkedin profile](https://www.linkedin.com/in/alitaee/)
+- [Freecodecamp profile](https://www.freecodecamp.org/alitaee)
 
 📫 How to reach me:
-- [Gmail](ali.taee.72@gmail.com)
-- [Yahoo](alitaee20@yahoo.com)
+- ali.taee.72@gmail.com
+- alitaee20@yahoo.com
+
+![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
 
 <!--
 **AliTaee/AliTaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
