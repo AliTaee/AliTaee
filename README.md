@@ -14,23 +14,10 @@ HTML banners with focusing on pure CSS and JavaScript animation and interaction 
 - [Freecodecamp](https://www.freecodecamp.org/alitaee)
 - [Stackoverflow](https://stackoverflow.com/users/9218227/ali-taee) 
 
-📫 How to reach me:
+#### 📫 How to reach me:
 - ali.taee.72@gmail.com
 - alitaee20@yahoo.com
 
+I'm interesting in codewars
+
 ![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
-
-<!--
-**AliTaee/AliTaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
