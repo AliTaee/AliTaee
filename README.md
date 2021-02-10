@@ -18,6 +18,6 @@ HTML banners with focusing on pure CSS and JavaScript animation and interaction 
 - ali.taee.72@gmail.com
 - alitaee20@yahoo.com
 
-I'm interesting in codewars
+I'm interested in codewars
 
 ![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
