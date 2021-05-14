@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Front-end developer who started learning Web programming back in 2016. Reading the Web sites practicing and learning through the implementation of the projects and new challenges also my daily habits. My career passion is JavaScript, React and user interface and my interests are reading books, music, and photography. The strengths of my work are learning, ideas, user experience (UX), and user interface (UI). 
+I am a Front-end developer with 4 years of experience. I enjoy every aspect of the job from the implement user interface to advanced JavaScript topics. I have a passion to work on side projects to learn more and create new things. My interests are reading novels, music, and photography. 
 
 #### 🔭 I’m currently working on HTML banner project
 HTML banners with focusing on pure CSS and JavaScript animation and interaction with the user's events also performance and size matters.
