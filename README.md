@@ -6,7 +6,7 @@ I am a Front-end Developer with 5 years of experience. I enjoy every aspect of t
 
 [alitaee.ir](https://alitaee.ir/)
 
-#### 🔭 I’m currently working on Unit test in JavaScript and Iran bank card project
+#### 🔭 I’m currently working on:
 
 - [Study and Practice Webpack](https://github.com/AliTaee/webpack-practice)
 - [Portfolio with Gatsby](https://github.com/AliTaee/Portfolio)
