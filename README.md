@@ -4,7 +4,7 @@ Front-end Developer with 5+ years of experience building responsive websites to 
 
 ### 👨‍💻 My portfolio 
 
-[alitaee.ir](https://alitaee.com/)
+[alitaee.com](https://alitaee.com/)
 
 #### 🔭 I’m currently working on:
 
