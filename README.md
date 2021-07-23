@@ -1,15 +1,17 @@
 ## Hi there 👋
 
-I am a Front-end Developer with 5 years of experience. I enjoy every aspect of the job from the user interface implementation to advanced JavaScript topics. I have a passion to work on side projects to learn more and create new things. My interests are reading novels, music, and photography. 
+Front-end Developer with 5+ years of experience building responsive websites to web applications. I enjoy every aspect of the job from the user interface implementation to advanced JavaScript topics. I always passion to learn more and improve my work. I enjoy working on pure projects using HTML, CSS, and JavaScript as much as working on front-end libraries and frameworks like React.
 
 ### 👨‍💻 My portfolio 
 
-[alitaee.ir](https://alitaee.ir/)
+[alitaee.ir](https://alitaee.com/)
 
 #### 🔭 I’m currently working on:
 
-- [Study and Practice Webpack](https://github.com/AliTaee/webpack-practice)
+
 - [Portfolio with Gatsby](https://github.com/AliTaee/Portfolio)
+- [Study and Practice Webpack](https://github.com/AliTaee/webpack-practice)
+- [Launch countdown timer](https://github.com/AliTaee/launch-countdown-timer)
 
 #### 🛰️ You can find me at:
 
