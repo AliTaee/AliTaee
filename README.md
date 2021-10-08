@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Front-end Developer with 4+ years of experience building responsive websites to web applications. I enjoy every aspect of the job from the user interface implementation to advanced JavaScript topics. I am always trying to learn more and improve my work.
+As a Front-end Developer with more than 4 years of experience in building responsive websites and web
+applications, I am always looking for a way to improve my work and team performance, from adding documents
+and unit tests to contributing my knowledge and giving feedback in code reviews. I enjoy Music, Photography,
+Novels, Travel and Technology.
 
 ### 👨‍💻 My portfolio 
 
