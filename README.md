@@ -13,7 +13,6 @@ Novels, Travel and Technology.
 
 
 - [Portfolio with Gatsby](https://github.com/AliTaee/Portfolio)
-- [Study and Practice Webpack](https://github.com/AliTaee/webpack-practice)
 - [Launch countdown timer](https://github.com/AliTaee/launch-countdown-timer)
 
 #### 🛰️ You can find me at:
