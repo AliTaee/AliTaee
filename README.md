@@ -12,8 +12,8 @@ Novels, Travel and Technology.
 #### 🔭 I’m currently working on:
 
 
-- [Portfolio with Gatsby](https://github.com/AliTaee/Portfolio)
-- [Launch countdown timer](https://github.com/AliTaee/launch-countdown-timer)
+- [CS50](https://github.com/AliTaee/cs50)
+- [Roady](https://github.com/AliTaee/roady)
 
 #### 🛰️ You can find me at:
 
