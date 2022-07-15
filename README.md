@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-As a Senior Front-end Developer with more than 4 years of experience in building responsive websites and web
-applications, I am always looking for a way to improve my work and team performance, from adding documents
-and unit tests to contributing my knowledge and giving feedback in code reviews. I enjoy Music, Photography,
-Novels, Travel and Technology.
+I’m a Senior Front-end Developer with more than 5 years of experience. I have a self-taught spirit and I have a passion for Front-end Development because for me it’s a combination of art and development. For most of my career, I’ve worked with JavaScript and React but I’m open to learning new technologies. I like to help other people with what I know and interact with them and get their feedbacks to improve my self and the project. I enjoy Music, Books, Photography, Board games, Running, and Travel.
 
 ### 👨‍💻 My portfolio 
 
