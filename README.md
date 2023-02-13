@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Senior Front-end Developer with more than 5 years of experience. I have a self-taught spirit and I have a passion for Front-end Development because for me it’s a combination of art and development. For most of my career, I’ve worked with JavaScript and React but I’m open to learning new technologies. I like to help other people with what I know and interact with them and get their feedbacks to improve my self and the project. I enjoy Music, Books, Photography, Board games, Running, and Travel.
+I’m a Senior Front-end Developer with more than 6 years of experience. I have a self-taught spirit and I have a passion for Front-end Development because for me it’s a combination of art and development. For most of my career, I’ve worked with JavaScript and React but I’m open to learning new technologies. I like to help other people with what I know and interact with them and get their feedbacks to improve my self and the project. I enjoy Music, Books, Photography, Board games, Running, and Travel.
 
 ### 👨‍💻 My portfolio 
 
