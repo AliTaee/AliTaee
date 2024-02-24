@@ -13,6 +13,10 @@ I’m a Senior Front-end Developer with more than 8 years of experience. I have 
 - ali.taei.semiromi@gmail.com
 - [Linkedin](https://www.linkedin.com/in/alitaee/)
 
+#### 👨🏼‍💻 My portfolio 
+
+[alitaee.dev](https://www.alitaee.dev/)
+
 I'm interested in codewars
 
 ![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
