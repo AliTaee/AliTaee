@@ -7,8 +7,6 @@ I'm passionate about video games and have recently begun exploring game developm
 #### 🛰️ You can find me at:
 
 - [Linkedin](https://www.linkedin.com/in/alitaee/)
-- [Codewars](https://www.codewars.com/users/AliTaee/)
-- [Freecodecamp](https://www.freecodecamp.org/alitaee)
 
 #### 📫 How to reach me:
 - ali.taei.semiromi@gmail.com
@@ -17,7 +15,3 @@ I'm passionate about video games and have recently begun exploring game developm
 #### 👨🏼‍💻 My portfolio 
 
 [alitaee.dev](https://www.alitaee.dev/)
-
-I'm interested in codewars
-
-![my profile at codewars](https://www.codewars.com/users/AliTaee/badges/large)
